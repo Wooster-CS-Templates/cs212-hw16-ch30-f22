@@ -225,4 +225,5 @@ or `-C 0,1,2:0:3,3,3,1,1,1`). Sleep strings can be shorter than the
 number of sleep points in the code; the remaining sleep slots are
 initialized to be zero.
 
+Grade: 4 points
 
